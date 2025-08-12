@@ -16,3 +16,10 @@
 - Successfully launched JupyterLab in poetry env; kernel “Python 3.12 (poetry)” detected.
 - Created test notebook hello_world.ipynb; minor checkpoint folder missing (to fix next).
 - Created docs/ folder with progress log and terminal learning notes.
+## 2025-08-12
+- Completed VS Code setup with Python/Jupyter/Black/Ruff and Copilot; workspace settings saved.
+- Confirmed Poetry venv selected in VS Code; Python 3.12.11 active.
+- Initialized Git repo and pushed via SSH to `clooom/data_science_playground`.
+- Created `sample_data.csv`; ran manual EDA in JupyterLab with kernel “Python 3.12 (poetry)”.
+- Verified AI-assisted EDA summary in ChatGPT ADA.
+- **Phase 1 complete**: environment, tooling, repo, and smoke tests all validated.
