@@ -1,0 +1,37 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/interim/
+data/temp/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# Playwright
+playwright/.cache/
+
+# Logs
+*.log
+
+# Environment variables / secrets
+.env
+.env.*
